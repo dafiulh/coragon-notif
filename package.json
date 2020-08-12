@@ -1,0 +1,14 @@
+{
+  "name": "coragon-notif",
+  "description": "notification maker for coragon",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.16.2",
+    "npm": "6.9.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
